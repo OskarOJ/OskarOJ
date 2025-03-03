@@ -1,7 +1,10 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oskar+!;" />
+</h1>
+
 # 👋 Hey, I'm Oskar!
-🚀 Passionate about web development and software engineering.  
+🚀 Passionate about web development and automation.  
 🌱 Currently learning **Figma** and **Blazor**.  
-🎯 Looking to collaborate on exciting projects!  
 
 ---
 
@@ -28,10 +31,11 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 
-### 🔹 DevOps & Tools
+### 🔹 DevOps, Automation & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)  
 
 ---
 
@@ -43,7 +47,7 @@
 ---
 
 ## 🐍 Snake Contributions:
-![snake gif](https://github.com/OskarOJ/OskarOJ/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/OskarOJ/OskarOJ/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
