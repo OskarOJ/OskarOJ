@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OskarOJ&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
----
+
 
 ## 💻 Tech Stack:
 
@@ -40,7 +40,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)  
 
----
+
 
 <div align="center">
     
