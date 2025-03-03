@@ -17,6 +17,8 @@
 
 </div>
 
+---
+
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OskarOJ&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
@@ -53,7 +55,7 @@
 
 
 ## 🐍 Snake Contributions:
-![Snake animation](https://github.com/OskarOJ/OskarOJ/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/OskarOJ/OskarOJ/blob/output/github-snake-dark.svg)
 
 ---
 
