@@ -2,11 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oskar+!;" />
 </h1>
 
-# 👋 Hey, I'm Oskar!
-🚀 Passionate about web development and automation.  
-🌱 Currently learning **Figma** and **Blazor**.  
 
----
 
 <!-- Stats -->
 <div align="center">
@@ -50,12 +46,10 @@
     
 </div>
 
----
 
 ## 🐍 Snake Contributions:
 ![Snake animation](https://github.com/OskarOJ/OskarOJ/blob/output/github-snake-dark.svg)
 
----
 
 <div align="center">
   
