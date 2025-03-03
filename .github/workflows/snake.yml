@@ -2,7 +2,7 @@ name: Generate Snake Contribution Grid
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Uruchamia się codziennie o północy
+    - cron: "0 0 * * *"  # Uruchamia codziennie o północy
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # Aktualizacja do v4
 
       - name: Generate Snake
         uses: Platane/snk@master
@@ -20,7 +20,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
 
       - name: Upload Snake
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4  # 🔥 Zaktualizowane do v4
         with:
           name: snake
           path: dist/github-contribution-grid-snake.svg
