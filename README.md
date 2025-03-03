@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Oskar, and I'm a backend developer from Poland. I specialize in C#, building APIs, and web automation using ChromeDriver. I also have experience with HTML and CSS. 🚀</h2>
 
 ###
 
@@ -38,6 +38,11 @@
   <a href="https://www.linkedin.com/in/oskar-jędrychowski-0aa137345/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="left">
 </div>
 
 ###
