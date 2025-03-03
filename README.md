@@ -9,8 +9,20 @@
 ---
 
 ## 🌐 Connect with me:
+<div align="center">
+
+## 🌐 Connect with Me 🍬
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oskar-jędrychowski-0aa137345/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jedrychowskioskar@gmail.com)  
+
+</div>
+
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OskarOJ&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://streak-stats.demolab.com/?user=OskarOJ&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OskarOJ&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
 
 ---
 
@@ -39,18 +51,14 @@
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OskarOJ&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=OskarOJ&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OskarOJ&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
 
 ## 🐍 Snake Contributions:
-![Snake animation](https://github.com/OskarOJ/OskarOJ/blob/gh-pages/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/OskarOJ/OskarOJ/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=OskarOJ&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=OskarOJ&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
