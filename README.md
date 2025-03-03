@@ -47,7 +47,7 @@
 ---
 
 ## 🐍 Snake Contributions:
-![Snake animation](https://github.com/OskarOJ/OskarOJ/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/OskarOJ/OskarOJ/blob/gh-pages/github-contribution-grid-snake.svg)
 
 ---
 
