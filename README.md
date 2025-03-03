@@ -42,13 +42,10 @@
 
 ---
 
-## 🌐 Connect with me:
 <div align="center">
-
 ## 🌐 Connect with Me 🍬
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oskar-jędrychowski-0aa137345/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jedrychowskioskar@gmail.com)  
-
 </div>
 
 ---
