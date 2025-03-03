@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning - FIGMA<br>
+🌱 I’m currently learning - Figma and Blazor<br>
 
 
 ## 🌐 Socials:
