@@ -47,8 +47,10 @@
 </div>
 
 
-## 🐍 Snake Contributions:
-![Snake animation](https://github.com/OskarOJ/OskarOJ/blob/output/github-snake-dark.svg)
+<div align="center">
+    
+  ![snake gif](https://github.com/oskarOJ/oskarOJ/blob/output/github-snake-dark.svg)
+</div>
 
 
 <div align="center">
