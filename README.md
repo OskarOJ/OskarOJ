@@ -8,17 +8,6 @@
 
 ---
 
-## 🌐 Connect with me:
-<div align="center">
-
-## 🌐 Connect with Me 🍬
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oskar-jędrychowski-0aa137345/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jedrychowskioskar@gmail.com)  
-
-</div>
-
----
-
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OskarOJ&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
@@ -53,6 +42,16 @@
 
 ---
 
+## 🌐 Connect with me:
+<div align="center">
+
+## 🌐 Connect with Me 🍬
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oskar-jędrychowski-0aa137345/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jedrychowskioskar@gmail.com)  
+
+</div>
+
+---
 
 ## 🐍 Snake Contributions:
 ![Snake animation](https://github.com/OskarOJ/OskarOJ/blob/output/github-snake-dark.svg)
