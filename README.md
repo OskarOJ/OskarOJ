@@ -5,9 +5,6 @@
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OskarOJ&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://streak-stats.demolab.com/?user=OskarOJ&theme=aura&hide_border=true" width="50%" />
-<img src="./github-stats.svg" alt="Most Used Languages" width="36%" />
-
 </div>
 
 <div align="center">
